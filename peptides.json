@@ -1,0 +1,769 @@
+{
+	"name":"br08005",
+	"children":[
+	{
+		"name":"Neuropeptides",
+		"children":[
+		{
+			"name":"Tachykinin",
+			"children":[
+			{
+				"name":"C16094  Substance P"
+			},
+			{
+				"name":"C16095  Neuropeptide K"
+			},
+			{
+				"name":"C16096  Neuropeptide gamma"
+			},
+			{
+				"name":"C16097  Neurokinin A"
+			},
+			{
+				"name":"C16098  Neurokinin B"
+			},
+			{
+				"name":"C16099  Endokinin A\/B"
+			},
+			{
+				"name":"C16100  Endokinin C"
+			},
+			{
+				"name":"C16101  Endokinin D"
+			}
+			]
+		},
+		{
+			"name":"Neurotensin",
+			"children":[
+			{
+				"name":"C01836  Neurotensin"
+			},
+			{
+				"name":"C15868  Neuromedin N"
+			}
+			]
+		},
+		{
+			"name":"Feeding-related peptide",
+			"children":[
+			{
+				"name":"C16025  Ghrelin"
+			},
+			{
+				"name":"C15901  Galanin"
+			},
+			{
+				"name":"C16046  Galanin-like peptide"
+			},
+			{
+				"name":"C16102  Obestatin"
+			},
+			{
+				"name":"C16027  Cocaine- and amphetamine-regulated transcript (1-39)"
+			},
+			{
+				"name":"C16029  Cocaine- and amphetamine-regulated transcript (42-89)"
+			},
+			{
+				"name":"C16103  Agouti related protein (87-132)"
+			},
+			{
+				"name":"C16030  Melanin-concentrating hormone"
+			},
+			{
+				"name":"C16031  Neuropeptide GE"
+			},
+			{
+				"name":"C16104  Neuropeptide EI"
+			},
+			{
+				"name":"C16105  Orexin A"
+			},
+			{
+				"name":"C16106  Orexin B"
+			},
+			{
+				"name":"C16115  Gastrin-releasing peptide"
+			},
+			{
+				"name":"C15866  Neuromedin C"
+			},
+			{
+				"name":"C15869  Neuromedin U"
+			},
+			{
+				"name":"C16107  Neuromedin S"
+			},
+			{
+				"name":"C15949  Neuropeptide Y"
+			},
+			{
+				"name":"C16032  Neuropeptide W-30"
+			},
+			{
+				"name":"C16033  Neuropeptide W-23"
+			},
+			{
+				"name":"C16034  Neuropeptide B-29"
+			},
+			{
+				"name":"C16035  Neuropeptide B-23"
+			},
+			{
+				"name":"C15865  Neuromedin B"
+			},
+			{
+				"name":"C16036  Neuropeptide S"
+			}
+			]
+		},
+		{
+			"name":"Endogenous opioid peptide",
+			"children":[
+			{
+				"name":"C16037  Leumorphin"
+			},
+			{
+				"name":"C01574  Dynorphin A"
+			},
+			{
+				"name":"C16135  Dynorphin B"
+			},
+			{
+				"name":"C16039  Neoendorphin alpha"
+			},
+			{
+				"name":"C16040  Neoendorphin beta"
+			},
+			{
+				"name":"C16041  Leu-enkephalin"
+			},
+			{
+				"name":"C11684  Met-enkephalin"
+			},
+			{
+				"name":"C16042  Met-enkephalin-Arg-Gly-Leu"
+			},
+			{
+				"name":"C16043  Met-enkephalin-Arg-Phe"
+			},
+			{
+				"name":"C16108  Adrenorphin"
+			},
+			{
+				"name":"C15890  Endomorphin-1"
+			},
+			{
+				"name":"C15891  Endomorphin-2"
+			},
+			{
+				"name":"C16044  Nociceptin"
+			},
+			{
+				"name":"C15871  Nocistatin"
+			}
+			]
+		},
+		{
+			"name":"Other neuropeptides",
+			"children":[
+			{
+				"name":"C15863  Cerebellin"
+			},
+			{
+				"name":"C16109  RFamide-related peptide 1"
+			},
+			{
+				"name":"C16045  RFamide-related peptide 2"
+			},
+			{
+				"name":"C16110  RFamide-related peptide 3"
+			},
+			{
+				"name":"C16111  Neuropeptide AF"
+			},
+			{
+				"name":"C16112  Neuropeptide FF"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Cardiovascular peptides",
+		"children":[
+		{
+			"name":"Angiotensin",
+			"children":[
+			{
+				"name":"C00873  Angiotensin I"
+			},
+			{
+				"name":"C02135  Angiotensin II"
+			},
+			{
+				"name":"C15848  Angiotensin III"
+			},
+			{
+				"name":"C15849  Angiotensin IV"
+			},
+			{
+				"name":"C15851  Angiotensin (1-9)"
+			},
+			{
+				"name":"C15850  Angiotensin (1-7)"
+			},
+			{
+				"name":"C15852  Angiotensin (1-5)"
+			},
+			{
+				"name":"C20970  Angiotensin A"
+			},
+			{
+				"name":"C20971  Alamandine"
+			}
+			]
+		},
+		{
+			"name":"Bradykinin",
+			"children":[
+			{
+				"name":"C16008  T-kinin"
+			},
+			{
+				"name":"C01505  Kallidin"
+			},
+			{
+				"name":"C00306  Bradykinin"
+			}
+			]
+		},
+		{
+			"name":"Fibrinopeptide",
+			"children":[
+			{
+				"name":"C00952  Fibrinopeptide A"
+			},
+			{
+				"name":"C02404  Fibrinopeptide B"
+			}
+			]
+		},
+		{
+			"name":"Natriuretic peptide",
+			"children":[
+			{
+				"name":"C16000  Urodilatin"
+			},
+			{
+				"name":"C16003  Atrial natriuretic peptide"
+			},
+			{
+				"name":"C16004  Brain natriuretic peptide"
+			},
+			{
+				"name":"C16005  C-Type natriuretic peptide"
+			}
+			]
+		},
+		{
+			"name":"Guanylin",
+			"children":[
+			{
+				"name":"C16006  Uroguanylin"
+			},
+			{
+				"name":"C16007  Guanylin"
+			}
+			]
+		},
+		{
+			"name":"Endothelin",
+			"children":[
+			{
+				"name":"C16009  Big endothelin"
+			},
+			{
+				"name":"C16010  Endothelin-1"
+			},
+			{
+				"name":"C16012  Endothelin-2"
+			},
+			{
+				"name":"C16013  Endothelin-3"
+			}
+			]
+		},
+		{
+			"name":"Urotensin",
+			"children":[
+			{
+				"name":"C16076  Urotensin I"
+			},
+			{
+				"name":"C16016  Urotensin II"
+			}
+			]
+		},
+		{
+			"name":"Adrenomedullin",
+			"children":[
+			{
+				"name":"C16127  Adrenomedullin"
+			},
+			{
+				"name":"C16128  Adrenomedullin-2"
+			},
+			{
+				"name":"C18198  Proadrenomedullin N-terminal 20 peptide"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Calcium-regulating peptides",
+		"children":[
+		{
+			"name":"Thyroid peptide hormone",
+			"children":[
+			{
+				"name":"C06865  Calcitonin"
+			},
+			{
+				"name":"C16125  Calcitonin gene-related peptide 1"
+			},
+			{
+				"name":"C16126  Calcitonin gene-related peptide 2"
+			}
+			]
+		},
+		{
+			"name":"parathyroid peptide hormone",
+			"children":[
+			{
+				"name":"C16051  Parathyroid hormone"
+			}
+			]
+		},
+		{
+			"name":"Others",
+			"children":[
+			{
+				"name":"C15876  Katacalcin"
+			},
+			{
+				"name":"C16129  Calcitonin receptor-stimulating peptide 1"
+			},
+			{
+				"name":"C16052  Parathyroid hormone-related peptide (1-36)"
+			},
+			{
+				"name":"C16053  Tuberoinfundibular peptide of 39 residues"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Pituitary hormones",
+		"children":[
+		{
+			"name":"Anterior pituitary hormone",
+			"children":[
+			{
+				"name":"C18181  Growth hormone"
+			},
+			{
+				"name":"C18182  Thyroid stimulating hormone"
+			},
+			{
+				"name":"C18183  Luteinizing hormone"
+			},
+			{
+				"name":"C18184  Follicle stimulating hormone"
+			},
+			{
+				"name":"C18201  Prolactin"
+			}
+			]
+		},
+		{
+			"name":"Posterior pituitary hormone",
+			"children":[
+			{
+				"name":"C00746  Oxytocin"
+			},
+			{
+				"name":"C13662  Arg-vasopressin"
+			},
+			{
+				"name":"C07105  Lys-vasopressin"
+			},
+			{
+				"name":"C16077  Neurophysin I"
+			},
+			{
+				"name":"C16078  Neurophysin II"
+			}
+			]
+		},
+		{
+			"name":"Proopiomelanocortin-derived peptide",
+			"children":[
+			{
+				"name":"C02017  Corticotropin"
+			},
+			{
+				"name":"C16134  Corticotropin-like intermediary peptide"
+			},
+			{
+				"name":"C16017  Endorphin alpha"
+			},
+			{
+				"name":"C02210  Endorphin beta"
+			},
+			{
+				"name":"C16018  Endorphin gamma"
+			},
+			{
+				"name":"C16019  Lipotropin beta"
+			},
+			{
+				"name":"C16020  Lipotropin gamma"
+			},
+			{
+				"name":"C02758  Melanotropin alpha"
+			},
+			{
+				"name":"C16136  Melanotropin beta"
+			},
+			{
+				"name":"C16137  Melanotropin gamma"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Hypothalamic hormones",
+		"children":[
+		{
+			"name":"Corticotropin-releasing hormone",
+			"children":[
+			{
+				"name":"C16079  Corticotropin releasing hormone"
+			},
+			{
+				"name":"C16080  Urocortin I"
+			},
+			{
+				"name":"C16081  Urocortin II"
+			},
+			{
+				"name":"C16082  Urocortin III"
+			}
+			]
+		},
+		{
+			"name":"Gonadotropin-releasing hormone",
+			"children":[
+			{
+				"name":"C07607  Gonadotropin-releasing hormone I"
+			},
+			{
+				"name":"C16084  Gonadotropin-releasing hormone II"
+			}
+			]
+		},
+		{
+			"name":"Growth hormone-releasing hormone \/ Somatostatin",
+			"children":[
+			{
+				"name":"C16085  Growth hormone-releasing hormone"
+			},
+			{
+				"name":"C16021  Somatostatin-28"
+			},
+			{
+				"name":"C16022  Somatostatin-14"
+			},
+			{
+				"name":"C16023  Cortistatin-29"
+			},
+			{
+				"name":"C16024  Cortistatin-17"
+			}
+			]
+		},
+		{
+			"name":"Thyrotropin-releasing hormone",
+			"children":[
+			{
+				"name":"C03958  Thyrotropin-releasing hormone"
+			}
+			]
+		},
+		{
+			"name":"Prolactin-releasing peptide",
+			"children":[
+			{
+				"name":"C16086  Prolactin-releasing peptide-31"
+			},
+			{
+				"name":"C16087  Prolactin-releasing peptide-20"
+			}
+			]
+		},
+		{
+			"name":"Pituitary adenylate cyclase-activating peptide",
+			"children":[
+			{
+				"name":"C16088  Pituitary adenylate cyclase-activating peptide-38"
+			},
+			{
+				"name":"C16089  Pituitary adenylate cyclase-activating peptide-27"
+			}
+			]
+		},
+		{
+			"name":"Metastin",
+			"children":[
+			{
+				"name":"C16090  Metastin"
+			},
+			{
+				"name":"C16091  Kisspeptin-14"
+			},
+			{
+				"name":"C16092  Kisspeptin-13"
+			},
+			{
+				"name":"C16093  Kisspeptin-10"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Pancreatic peptides",
+		"children":[
+		{
+			"name":"Insulin \/ C-peptide",
+			"children":[
+			{
+				"name":"C00723  Insulin"
+			},
+			{
+				"name":"C16120  C-peptide"
+			},
+			{
+				"name":"C16131  Insulin-like growth factor I"
+			},
+			{
+				"name":"C16132  Insulin-like growth factor II"
+			}
+			]
+		},
+		{
+			"name":"Relaxin",
+			"children":[
+			{
+				"name":"C16121  Relaxin-1"
+			},
+			{
+				"name":"C16122  Relaxin-2"
+			},
+			{
+				"name":"C16123  Relaxin-3"
+			},
+			{
+				"name":"C16124  Relaxin-like factor"
+			},
+			{
+				"name":"C16178  Insulin-like peptide 5"
+			}
+			]
+		},
+		{
+			"name":"Glucagon",
+			"children":[
+			{
+				"name":"C01501  Glucagon"
+			},
+			{
+				"name":"C16048  Glucagon-like peptide 1"
+			},
+			{
+				"name":"C16049  Glucagon-like peptide 2"
+			},
+			{
+				"name":"C16050  Glicentin"
+			},
+			{
+				"name":"C18197  Oxyntomodulin"
+			}
+			]
+		},
+		{
+			"name":"Amylin",
+			"children":[
+			{
+				"name":"C16130  Amylin"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Gonadal peptides",
+		"children":[
+		{
+			"name":"Placental peptide",
+			"children":[
+			{
+				"name":"C18185  Chorionic gonadotropin"
+			},
+			{
+				"name":"C17813  Activin A"
+			},
+			{
+				"name":"C18208  Activin AB"
+			},
+			{
+				"name":"C18209  Activin B"
+			},
+			{
+				"name":"C18210  Placental lactogen"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Non-endocrine glands secretion peptides",
+		"children":[
+		{
+			"name":"Gut peptide",
+			"children":[
+			{
+				"name":"C18186  Gastrin-14"
+			},
+			{
+				"name":"C16113  Gastrin-17"
+			},
+			{
+				"name":"C18187  Gastrin-34"
+			},
+			{
+				"name":"C16133  Cholecystokinin-33"
+			},
+			{
+				"name":"C16114  Cholecystokinin-8"
+			},
+			{
+				"name":"C16047  Motilin"
+			},
+			{
+				"name":"C15906  Gastric inhibitory polypeptide"
+			},
+			{
+				"name":"C16117  Pancreatic polypeptide"
+			},
+			{
+				"name":"C16118  Peptide YY"
+			},
+			{
+				"name":"C16119  Vasoactive intestinal peptide"
+			},
+			{
+				"name":"C13523  Secretin"
+			},
+			{
+				"name":"C15856  Apelin-36"
+			},
+			{
+				"name":"C15855  Apelin-13"
+			}
+			]
+		},
+		{
+			"name":"Renal peptide",
+			"children":[
+			{
+				"name":"C18200  Erythropoietin"
+			}
+			]
+		},
+		{
+			"name":"Adipocytes secretion peptide",
+			"children":[
+			{
+				"name":"C18188  Leptin"
+			},
+			{
+				"name":"C18189  Adiponectin"
+			},
+			{
+				"name":"C18190  Resistin"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"Others",
+		"children":[
+		{
+			"name":"Microbicidal and cytotoxic peptide",
+			"children":[
+			{
+				"name":"C16054  Defensin alpha-1"
+			},
+			{
+				"name":"C16055  Defensin alpha-2"
+			},
+			{
+				"name":"C16056  Defensin alpha-3"
+			},
+			{
+				"name":"C16057  Defensin alpha-4"
+			},
+			{
+				"name":"C16058  Defensin alpha-5"
+			},
+			{
+				"name":"C16059  Defensin beta-1"
+			},
+			{
+				"name":"C16060  Defensin beta-2"
+			},
+			{
+				"name":"C16061  Defensin beta-3"
+			},
+			{
+				"name":"C16062  Defensin beta-4"
+			},
+			{
+				"name":"C16063  Liver-expressed antimicrobial peptide 1"
+			},
+			{
+				"name":"C16064  Liver-expressed antimicrobial peptide 2"
+			},
+			{
+				"name":"C18313  Cathelicidin LL-37"
+			},
+			{
+				"name":"C15922  Indolicidin"
+			},
+			{
+				"name":"C15921  Histatin 5"
+			}
+			]
+		}
+		]
+	}
+	]
+}
+
