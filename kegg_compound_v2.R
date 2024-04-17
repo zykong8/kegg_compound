@@ -73,6 +73,8 @@ cls <- left_join(x = rlt, y = map2cpd, by = "mapID")
 cls2 <- left_join(x = cls, y = cpd2info, by = "CPD")
 
 
+library(openxlsx)
+write.xlsx(cls2, file = "Compound2Class.xlsx", rowNames=FALSE, colNames=TRUE)
 
 
 
