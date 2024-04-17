@@ -19301,3 +19301,10 @@ C22888	N-Hydroxyputrescine; N-(4-Aminobutyl)hydroxylamine
 C22889	5,20-Epoxytax-11-en-4alpha-ol; Oxo-taxadiene-4alpha-ol
 C22891	5,20-Epoxytax-11-ene-4alpha,9alpha-diol; Oxo-taxadiene-4alpha,9alpha-diol
 C22899	alpha-L-Rhamnosyl-(1->4)-D-glucuronate; alpha-L-Rhamnosyl-(1->4)-D-glucuronic acid
+C22900	Fatty acid phytyl ester
+C22902	N1-Acetyl-N1-hydroxyputrescine; N1-Acetyl-N1-hydroxybutane-1,4-diamine
+C22903	Ambiguine A; (6aS,8R,9R,10R,10aS)-8-Chloro-10-isocyano-6,6,9-trimethyl-1-(2-methylbut-3-en-2-yl)-9-vinyl-2,6,6a,7,8,9,10,10a-octahydronaphtho[1,2,3-cd]indole
+C22904	(3R)-3-Methyl-L-arginine
+C22905	Ambiguine H; (6aS,9R,10R,10aS)-9-Ethenyl-10-isocyano-6,6,9-trimethyl-1-(2-methylbut-3-en-2-yl)-2,6,6a,7,8,9,10,10a-octahydronaphtho[1,2,3-cd]indole
+C22906	Betaine-CoA; Glycinebetainyl-CoA; Betainyl-CoA; N,N,N-Trimethylglycyl-CoA
+C22907	(R)-Salsolinol; (+)-Salsolinol; (1R)-1,2,3,4-Tetrahydro-1-methylisoquinoline-6,7-diol

@@ -6,7 +6,8 @@ library(tidyverse)
 library(stringr)
 library(rjson)
 
-wk <- "D:\\WeChatAfficialAccount\\KEGG-database\\第二版\\kegg_compound"
+# wk <- "D:\\WeChatAfficialAccount\\KEGG-database\\第二版\\kegg_compound"
+wk <- "/Users/xiaofei/Desktop/KEGG"
 setwd(wk)
 
 
@@ -54,21 +55,22 @@ pbapply::pblapply(1:length(json), FUN = function(a){
 
 # pathway to compound
 library(magrittr)
-map2cpd <- read.table("pathway2compound.txt", header = FALSE, sep = "\t")
+map2cpd <- read.table("pathway2compound.txt", header = FALSE, sep = "\t", quote = "") %>%
+  `colnames<-`(c("mapID", "CPD"))
 map2cpd %<>% mutate(
-  mapID = strsplit(V1, split = ":", fixed=TRUE)[[1]][2],
-  CPD = strsplit(V2, split = ":", fixed=TRUE)[[1]][2]
-) %>%
-  select(mapID, CPD)
+  mapID = map_chr(mapID, \(x) strsplit(x, ":", fixed = TRUE)[[1]][2]),
+  CPD = map_chr(CPD, \(x) strsplit(x, ":", fixed = TRUE)[[1]][2])
+)
 
 # compound information
-cpd2info <- read.table("compound.txt", header = FALSE, sep = "\t") %>%
+cpd2info <- read.table("compound.txt", header = FALSE, sep = "\t", quote = "") %>%
   `colnames<-`(c("CPD", "CPDName"))
 
 
 
 cls <- left_join(x = rlt, y = map2cpd, by = "mapID")
 
+cls2 <- left_join(x = cls, y = cpd2info, by = "CPD")
 
 
 
